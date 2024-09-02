@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		1F31F34F2C859506009A6146 /* PhyloNodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F31F34E2C859506009A6146 /* PhyloNodeModel.swift */; };
+		1F31F3502C8596B6009A6146 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F80F1BA2C72F6D500CCCEE8 /* ContentView.swift */; };
 		1F80F1AD2C72F68500CCCEE8 /* EvolutionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F80F1AC2C72F68500CCCEE8 /* EvolutionApp.swift */; };
 		1F80F1B12C72F68600CCCEE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F80F1B02C72F68600CCCEE8 /* Assets.xcassets */; };
 		1F80F1B42C72F68600CCCEE8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F80F1B32C72F68600CCCEE8 /* Preview Assets.xcassets */; };
-		1F80F1BB2C72F6D500CCCEE8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F80F1BA2C72F6D500CCCEE8 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -141,8 +141,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F31F34F2C859506009A6146 /* PhyloNodeModel.swift in Sources */,
-				1F80F1BB2C72F6D500CCCEE8 /* ContentView.swift in Sources */,
 				1F80F1AD2C72F68500CCCEE8 /* EvolutionApp.swift in Sources */,
+				1F31F3502C8596B6009A6146 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
